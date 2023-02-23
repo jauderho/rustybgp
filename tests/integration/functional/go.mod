@@ -6,7 +6,7 @@ require (
 	github.com/docker/docker v1.4.2-0.20200214221943-d8772509d1a2
 	github.com/docker/go-connections v0.4.0
 	github.com/golang/protobuf v1.3.4
-	github.com/osrg/gobgp v0.0.0-20200219043526-659ef4bc371c
+	github.com/osrg/gobgp v2.0.0+incompatible
 	github.com/stretchr/testify v1.5.1
 	google.golang.org/grpc v1.27.1
 )
