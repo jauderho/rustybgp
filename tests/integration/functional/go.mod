@@ -1,6 +1,6 @@
 module github.com/osrg/rustybgp/tests/integration/functional
 
-go 1.19
+go 1.20
 
 require (
 	github.com/docker/docker v1.4.2-0.20200214221943-d8772509d1a2
