@@ -7,7 +7,7 @@ require (
 	github.com/docker/go-connections v0.4.0
 	github.com/golang/protobuf v1.3.4
 	github.com/osrg/gobgp v0.0.0-20200219043526-659ef4bc371c
-	github.com/stretchr/testify v1.5.1
+	github.com/stretchr/testify v1.7.1
 	google.golang.org/grpc v1.27.1
 )
 
@@ -33,6 +33,6 @@ require (
 	golang.org/x/text v0.3.0 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55 // indirect
-	gopkg.in/yaml.v2 v2.2.2 // indirect
+	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
 	gotest.tools/v3 v3.0.2 // indirect
 )
